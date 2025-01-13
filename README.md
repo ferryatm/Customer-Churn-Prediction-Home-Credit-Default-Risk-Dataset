@@ -2,7 +2,7 @@
 
 ### <b> -By Ferry Ath Thaariq Mudhofir </b>
 
-### Based on the [Kaggle Competition]((https://www.kaggle.com/c/home-credit-default-risk/overview))
+### Based on the [Kaggle Competition](https://www.kaggle.com/c/home-credit-default-risk/overview)
 
 ---
 
